@@ -2,7 +2,7 @@
 const BLOG = {
   AUTHOR: 'lin', // 作者
   BIO: '乾坤未定，你我皆黑马', // 作者简介
-  LINK: '', // 网站地址
+  LINK: 'https://notion-next-six-dun.vercel.app', // 网站地址
   KEYWORDS: '生活, 博客', // 网站关键词 英文逗号隔开
   NOTION_PAGE_ID:
   process.env.NOTION_PAGE_ID || '02ab3b8678004aa69e9e415905ef32a5', // Important page_id！！！Duplicate Template from  https://www.notion.so/tanghh/02ab3b8678004aa69e9e415905ef32a5
